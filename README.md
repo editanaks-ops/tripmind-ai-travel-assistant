@@ -35,6 +35,12 @@ The goal of the project was to explore the use of AI for travel planning and use
 Live Demo:
 https://tripmind-ai-travel-c-ytmq.bolt.host/
 
+## Screenshots
+
+Main page of the application:
+
+![TripMind AI](Screenshot%202026-06-10%20110234.png)
+
 ## Author
 
 Edita Näks Skylstad
